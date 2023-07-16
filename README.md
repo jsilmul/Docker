@@ -1,5 +1,5 @@
 # Docker
-Practica realizada sobre los contenedores Docker.
+Practica realizada sobre los contenedores Docker con Linux Ubuntu.
 
 Documento comprimido en formato .zip, que contiene el documento en formato .docx con capturas de pantalla que ilustran el seguimiento y realización de la práctica para 
 conocer el concepto de Docker.
